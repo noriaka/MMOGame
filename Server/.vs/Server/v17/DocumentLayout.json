@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\ProjectFileFolder\\UnityProject\\DarkGod\\Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2612B73-FF68-46CB-86D5-13FF52C96AD8}|Server\\Server.csproj|f:\\projectfilefolder\\unityproject\\darkgod\\server\\server\\04db\\dbmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2612B73-FF68-46CB-86D5-13FF52C96AD8}|Server\\Server.csproj|solutionrelative:server\\04db\\dbmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2612B73-FF68-46CB-86D5-13FF52C96AD8}|Server\\Server.csproj|F:\\ProjectFileFolder\\UnityProject\\DarkGod\\Server\\server\\02system\\01loginsys\\loginsys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2612B73-FF68-46CB-86D5-13FF52C96AD8}|Server\\Server.csproj|solutionrelative:server\\02system\\01loginsys\\loginsys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2612B73-FF68-46CB-86D5-13FF52C96AD8}|Server\\Server.csproj|F:\\ProjectFileFolder\\UnityProject\\DarkGod\\Server\\server\\01service\\01netsvc\\netsvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2612B73-FF68-46CB-86D5-13FF52C96AD8}|Server\\Server.csproj|solutionrelative:server\\01service\\01netsvc\\netsvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6894B1FE-C073-49A8-BA17-260DC23213AA}|PEProtocol\\PEProtocol.csproj|f:\\projectfilefolder\\unityproject\\darkgod\\server\\peprotocol\\gamemsg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6894B1FE-C073-49A8-BA17-260DC23213AA}|PEProtocol\\PEProtocol.csproj|solutionrelative:peprotocol\\gamemsg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2612B73-FF68-46CB-86D5-13FF52C96AD8}|Server\\Server.csproj|F:\\ProjectFileFolder\\UnityProject\\DarkGod\\Server\\server\\01service\\01netsvc\\serversession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2612B73-FF68-46CB-86D5-13FF52C96AD8}|Server\\Server.csproj|solutionrelative:server\\01service\\01netsvc\\serversession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2612B73-FF68-46CB-86D5-13FF52C96AD8}|Server\\Server.csproj|F:\\ProjectFileFolder\\UnityProject\\DarkGod\\Server\\server\\03cache\\cachesvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2612B73-FF68-46CB-86D5-13FF52C96AD8}|Server\\Server.csproj|solutionrelative:server\\03cache\\cachesvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2612B73-FF68-46CB-86D5-13FF52C96AD8}|Server\\Server.csproj|F:\\ProjectFileFolder\\UnityProject\\DarkGod\\Server\\server\\00common\\serverroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2612B73-FF68-46CB-86D5-13FF52C96AD8}|Server\\Server.csproj|solutionrelative:server\\00common\\serverroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 519,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBMgr.cs",
+              "DocumentMoniker": "F:\\ProjectFileFolder\\UnityProject\\DarkGod\\Server\\Server\\04DB\\DBMgr.cs",
+              "RelativeDocumentMoniker": "Server\\04DB\\DBMgr.cs",
+              "ToolTip": "F:\\ProjectFileFolder\\UnityProject\\DarkGod\\Server\\Server\\04DB\\DBMgr.cs",
+              "RelativeToolTip": "Server\\04DB\\DBMgr.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T01:40:50.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameMsg.cs",
+              "DocumentMoniker": "F:\\ProjectFileFolder\\UnityProject\\DarkGod\\Server\\PEProtocol\\GameMsg.cs",
+              "RelativeDocumentMoniker": "PEProtocol\\GameMsg.cs",
+              "ToolTip": "F:\\ProjectFileFolder\\UnityProject\\DarkGod\\Server\\PEProtocol\\GameMsg.cs",
+              "RelativeToolTip": "PEProtocol\\GameMsg.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T17:38:29.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServerSession.cs",
+              "DocumentMoniker": "F:\\ProjectFileFolder\\UnityProject\\DarkGod\\Server\\Server\\01Service\\01NetSvc\\ServerSession.cs",
+              "RelativeDocumentMoniker": "Server\\01Service\\01NetSvc\\ServerSession.cs",
+              "ToolTip": "F:\\ProjectFileFolder\\UnityProject\\DarkGod\\Server\\Server\\01Service\\01NetSvc\\ServerSession.cs",
+              "RelativeToolTip": "Server\\01Service\\01NetSvc\\ServerSession.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T17:21:09.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServerRoot.cs",
+              "DocumentMoniker": "F:\\ProjectFileFolder\\UnityProject\\DarkGod\\Server\\Server\\00Common\\ServerRoot.cs",
+              "RelativeDocumentMoniker": "Server\\00Common\\ServerRoot.cs",
+              "ToolTip": "F:\\ProjectFileFolder\\UnityProject\\DarkGod\\Server\\Server\\00Common\\ServerRoot.cs",
+              "RelativeToolTip": "Server\\00Common\\ServerRoot.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T17:12:39.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginSys.cs",
+              "DocumentMoniker": "F:\\ProjectFileFolder\\UnityProject\\DarkGod\\Server\\Server\\02System\\01LoginSys\\LoginSys.cs",
+              "RelativeDocumentMoniker": "Server\\02System\\01LoginSys\\LoginSys.cs",
+              "ToolTip": "F:\\ProjectFileFolder\\UnityProject\\DarkGod\\Server\\Server\\02System\\01LoginSys\\LoginSys.cs",
+              "RelativeToolTip": "Server\\02System\\01LoginSys\\LoginSys.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAQwGkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T17:11:38.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CacheSvc.cs",
+              "DocumentMoniker": "F:\\ProjectFileFolder\\UnityProject\\DarkGod\\Server\\Server\\03Cache\\CacheSvc.cs",
+              "RelativeDocumentMoniker": "Server\\03Cache\\CacheSvc.cs",
+              "ToolTip": "F:\\ProjectFileFolder\\UnityProject\\DarkGod\\Server\\Server\\03Cache\\CacheSvc.cs",
+              "RelativeToolTip": "Server\\03Cache\\CacheSvc.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAowDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T17:09:17.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NetSvc.cs",
+              "DocumentMoniker": "F:\\ProjectFileFolder\\UnityProject\\DarkGod\\Server\\Server\\01Service\\01NetSvc\\NetSvc.cs",
+              "RelativeDocumentMoniker": "Server\\01Service\\01NetSvc\\NetSvc.cs",
+              "ToolTip": "F:\\ProjectFileFolder\\UnityProject\\DarkGod\\Server\\Server\\01Service\\01NetSvc\\NetSvc.cs",
+              "RelativeToolTip": "Server\\01Service\\01NetSvc\\NetSvc.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwDMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T16:22:35.209Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 177,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

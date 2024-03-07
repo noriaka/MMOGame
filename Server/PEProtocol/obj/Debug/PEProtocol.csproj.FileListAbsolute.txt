@@ -1,0 +1,14 @@
+D:\UnityProject\UnityProject01\ResDarkGod\第4章\工程文件\DarkGod\Client\Assets\Scripts\Net\PEProtocol.dll
+D:\UnityProject\UnityProject01\ResDarkGod\第4章\工程文件\DarkGod\Client\Assets\Scripts\Net\PEProtocol.pdb
+D:\UnityProject\UnityProject01\ResDarkGod\第4章\工程文件\DarkGod\Server\PEProtocol\obj\Debug\PEProtocol.csproj.AssemblyReference.cache
+D:\UnityProject\UnityProject01\ResDarkGod\第4章\工程文件\DarkGod\Server\PEProtocol\obj\Debug\PEProtocol.csproj.CoreCompileInputs.cache
+D:\UnityProject\UnityProject01\ResDarkGod\第4章\工程文件\DarkGod\Server\PEProtocol\obj\Debug\PEProtocol.csproj.CopyComplete
+D:\UnityProject\UnityProject01\ResDarkGod\第4章\工程文件\DarkGod\Server\PEProtocol\obj\Debug\PEProtocol.dll
+D:\UnityProject\UnityProject01\ResDarkGod\第4章\工程文件\DarkGod\Server\PEProtocol\obj\Debug\PEProtocol.pdb
+F:\ProjectFileFolder\UnityProject\DarkGod\Client\Assets\Scripts\Net\PEProtocol.dll
+F:\ProjectFileFolder\UnityProject\DarkGod\Client\Assets\Scripts\Net\PEProtocol.pdb
+F:\ProjectFileFolder\UnityProject\DarkGod\Server\PEProtocol\obj\Debug\PEProtocol.csproj.AssemblyReference.cache
+F:\ProjectFileFolder\UnityProject\DarkGod\Server\PEProtocol\obj\Debug\PEProtocol.csproj.CoreCompileInputs.cache
+F:\ProjectFileFolder\UnityProject\DarkGod\Server\PEProtocol\obj\Debug\PEProtocol.dll
+F:\ProjectFileFolder\UnityProject\DarkGod\Server\PEProtocol\obj\Debug\PEProtocol.pdb
+F:\ProjectFileFolder\UnityProject\DarkGod\Server\PEProtocol\obj\Debug\PEProtocol.csproj.Up2Date
